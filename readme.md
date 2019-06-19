@@ -20,12 +20,3 @@ Residual Networks prevents issues such as: <br>
 * PIL
 * matplotlib
 * Python
-
-It prevents issues such as: <br>
-1.) Vanishing Gradients: For very deep networks the computed gradients at times get so small i.e very close to zero that the cannot propagate through the network hence they are said to varnish. <br>
-2.) optimization difficulty: The model parameters tends to increase as the number of parameters increases, this make it more difficult for the model to train an also lead to higher training error.
-
-
-```python
-
-```
